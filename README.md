@@ -11,3 +11,6 @@ The application listens on port 8000 and returns a text response when accessed o
 The running application should be verified using an HTTP request to port 8000.
 
 Project Feature Set: High-throughput telemetry data processor with real-time monitoring service
+
+## Usage Instructions
+To run the application, build the Docker image and map port 8080 to 8000.
